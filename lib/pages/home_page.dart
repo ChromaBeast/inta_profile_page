@@ -112,7 +112,7 @@ class MyHomePage extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.start,
                       children: [
                         Text(
-                          "61",
+                          "0",
                           style: TextStyle(
                             fontSize: 20,
                             fontWeight: FontWeight.bold,
@@ -209,15 +209,15 @@ class MyHomePage extends StatelessWidget {
                     children: [
                       Icon(
                         Icons.attachment_outlined,
-                        color: Colors.lightBlue.withAlpha(200),
+                        color: Colors.lightBlue[100],
                       ),
                       const SizedBox(width: 4),
                       Text(
                         'abcdlink.com',
                         style: TextStyle(
                           fontSize: 16,
-                          color: Colors.lightBlue.withAlpha(200),
-                          fontWeight: FontWeight.w400,
+                          color: Colors.lightBlue[100],
+                          fontWeight: FontWeight.w300,
                         ),
                       ),
                     ],
