@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Instagram',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        fontFamily: "Roboto",
+        brightness: Brightness.dark,
       ),
       home: const MyHomePage(),
     );
