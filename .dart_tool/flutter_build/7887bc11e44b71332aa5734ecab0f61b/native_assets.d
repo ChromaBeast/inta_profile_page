@@ -1,0 +1,1 @@
+ D:\\Android\ Projects\\inta_profile_page\\.dart_tool\\flutter_build\\7887bc11e44b71332aa5734ecab0f61b\\native_assets.yaml: 
